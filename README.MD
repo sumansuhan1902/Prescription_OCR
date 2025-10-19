@@ -40,7 +40,7 @@ A powerful Streamlit-based web application that converts handwritten medical pre
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Tensor-Titans-Labs/Prescription_OCR.git>
 cd prescription-ocr
 ```
 
@@ -239,4 +239,5 @@ For questions, issues, or feature requests:
 <div align="center">
   <p>Made with ❤️ by <strong>Zaheer JK</strong></p>
   <p>⭐ Star this repo if you find it useful!</p>
+
 </div>
